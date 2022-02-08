@@ -1,0 +1,5 @@
+__pycache__/
+.idea/
+src/debug.log
+checkpoints/
+demo/test_daata/

@@ -1,5 +1,5 @@
 __pycache__/
 .idea/
 src/debug.log
-checkpoints/
-demo/test_daata/
+src/checkpoints/
+src/demo/test_daata/
